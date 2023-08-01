@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=test&label=Profile%20views&color=0e75b6&style=flat" alt="test" /> </p>
 
-🔭 - test **test**
+- 🔭test **test**
 
 
 <h3 align="left">Social media</h3>
