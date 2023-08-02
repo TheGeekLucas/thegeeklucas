@@ -1,5 +1,5 @@
 <p align="center" style="text-align: center;">
-    <a href="https://rishavchanda.io" target="_blank" rel="noreferrer">
+    <a href="https://github.com/TheGeekLucas" target="_blank" rel="noreferrer">
         <img src="https://cdn.discordapp.com/attachments/1113841675723345930/1136344618020130816/nature.gif" alt="MasterHead" />
     </a>
 </p>
