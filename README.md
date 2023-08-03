@@ -8,7 +8,9 @@
 <h3 align="center">Discord Bot Developer | UI Designer</h3>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=test&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+    <a href="https://github.com/TheGeekLucas?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/TheGeekLucas?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/TheGeekLucas?color=yellow&style=for-the-badge&labelColor=D9AF00&logo=star"/></a>
 </p>
 
 <p align="center">
