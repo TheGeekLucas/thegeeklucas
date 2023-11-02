@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Hello, My Name Is Lucas.</h1>
-<h3 align="center">Discord Bot Developer | UI Designer</h3>
+<h3 align="center">Programmer | UI Designer</h3>
 
 <p align="center">
     <a href="https://github.com/TheGeekLucas?tab=followers">
