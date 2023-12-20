@@ -23,7 +23,7 @@
 <p align="left">
     • <a href="https://discord.com" target="_blank" rel="noreferrer">
         <img src="https://cdn.discordapp.com/attachments/1132998429866463331/1136023430374903890/1.png" alt="Discord" width="40" height="40" style="display: inline-block; vertical-align: middle;" /> 
-        <span style="display: inline-block; vertical-align: middle;">geeklucas</span>
+        <span style="display: inline-block; vertical-align: middle;">thegeeklucas</span>
     </a>
 </p>
 
