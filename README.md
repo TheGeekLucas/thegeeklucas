@@ -9,7 +9,7 @@
 
 <p align="center">
     <a href="https://github.com/TheGeekLucas?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/TheGeekLucas?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/TheGeekLucas?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/TheGeekLucas?color=yellow&style=for-the-badge&labelColor=D9AF00&logo=star"/></a>
 </p>
 
