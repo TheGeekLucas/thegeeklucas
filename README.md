@@ -9,22 +9,23 @@
 
 <p align="center">
     <a href="https://github.com/TheGeekLucas?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/TheGeekLucas?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/TheGeekLucas?color=yellow&style=for-the-badge&labelColor=D9AF00&logo=star"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/TheGeekLucas?color=blue&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/TheGeekLucas?color=yellow&style=for-the-badge&labelColor=D9AF00&logo=star"/></a>
 </p>
 
 <p align="center">
     I've been Mainly Working on Loads of Different Projects.
     <br>
-    For any further help, you may contact me via <a href="https://discord.com" target="_blank" rel="noreferrer" style="color: blue; text-decoration: underline;">Discord</a> aswell.
+    For any further help, you may contact me via <a href="https://discord.com/invite/YOUR_INVITE_LINK" target="_blank" rel="noreferrer" style="color: blue; text-decoration: underline;">Discord</a> as well.
 </p>
 
 <h3 align="left">Social Media</h3>
 <p align="left">
-    • <a href="https://discord.com" target="_blank" rel="noreferrer">
+    • <a href="https://discord.com/invite/YOUR_INVITE_LINK" target="_blank" rel="noreferrer">
         <img src="https://cdn.discordapp.com/attachments/1132998429866463331/1136023430374903890/1.png" alt="Discord" width="40" height="40" style="display: inline-block; vertical-align: middle;" /> 
         <span style="display: inline-block; vertical-align: middle;">thegeeklucas</span>
     </a>
+    <!-- Add more social media links as needed -->
 </p>
 
 <h3 align="left">Programming Languages</h3>
